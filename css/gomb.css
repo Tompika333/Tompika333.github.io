@@ -1,12 +1,15 @@
-
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(0, 0, 54);
+    height: 98%;
+}
 .profile-img {      
         width: 70px;  
         border-radius: 20px;  
 }
 .banner-text {
-    border-radius: 20px;
-    
-    
+    border-radius: 20px;    
     box-shadow: 0 0 10px  #5900ff, 10px 0 40px  #00eeff,
      0 0 60px #1909f8;
 }
