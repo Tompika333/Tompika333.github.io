@@ -1,0 +1,20 @@
+body{   
+    margin: 0;
+    padding: 0;
+    content: 0;
+    height: 100%;
+    background-color: rgb(0, 1, 37);
+    
+
+  }
+  .background-image {
+    
+        height: 36.8em;
+        width: 100%;
+        background-image: url(/img/wall-e-slide-meselandia.jpg);               
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center; 
+       
+  }
